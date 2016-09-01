@@ -2,6 +2,5 @@
 
 SUOMEN ILMAILULIITTO RY LASKUVARJOTOIMIKUNTA Koulutus- ja turvallisuuskomitea
 
-13.5.2013
-
+13.5.2013 - WIP
 
