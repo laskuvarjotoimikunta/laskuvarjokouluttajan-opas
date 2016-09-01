@@ -18,13 +18,11 @@ Vapaapudotuskouluttaja \(VPK\) saa
 
   5. hätätoimenpiteet koneessa.
 
+2. Antaa maakoulutusta ryhmähyppyä varten ja toimia kouluttajana ryhmähypyillä oppilaan kanssa.
 
+3. Tehdä kiinniuloshyppyjä oppilaiden kanssa ryhmähypyillä.
 
-1. Antaa maakoulutusta ryhmähyppyä varten ja toimia kouluttajana ryhmähypyillä oppilaan kanssa.
-
-2. Tehdä kiinniuloshyppyjä oppilaiden kanssa ryhmähypyillä.
-
-3. Kouluttaa ja valvoa oppilaita sen jälkeen, kun oppilas on siirtynyt perus- tai jatkokoulutukseen.
+4. Kouluttaa ja valvoa oppilaita sen jälkeen, kun oppilas on siirtynyt perus- tai jatkokoulutukseen.
 
 
 Henkilö voi saada VPK-kelpoisuuden, kun kaikki seuraavat kohdat täyttyvät:
