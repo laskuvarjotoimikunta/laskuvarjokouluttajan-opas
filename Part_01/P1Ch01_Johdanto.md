@@ -102,7 +102,14 @@ Hyppymestarin, joilla ei ole Ilmailuliiton VPK-luokitusta on
 
 Vapaapudotuskouluttajat voivat uusia luokituksensa vuosittain Ilmailuliiton jäsenyyden uusimisen yhteydessä toimittamalla tarvittava dokumentti, jonka on allekirjoittanut kerhon KP\/AKP.
 
-Uusimiseen tulee käyttää seuraavia dokumentteja: 1. todiste siitä, että uusi luokitus on ansaittu edellisen 12 kuukauden aikana tai todiste siitä, että hän on suorittanut VPK-kokeen \(voimassa 2 vuotta\) 2. todiste siitä, että henkilö on suorittanut vähintään 10 oppilas-pudotusta tai koulutushyppyä edellisen 12 kuukauden aikana. Näistä vähintään 5 tulee olla vapaapudotuskoulutushyppyä oppilaan kanssa. 3. todiste siitä, että henkilö on täyttänyt VPK-luokituksen uusimiseen asetetut ehdot.
+Uusimiseen tulee käyttää seuraavia dokumentteja: 
+
+1. todiste siitä, että uusi luokitus on ansaittu edellisen 12 kuukauden aikana tai todiste siitä, että hän on suorittanut VPK-kokeen \(voimassa 2 vuotta\) 
+
+2. todiste siitä, että henkilö on suorittanut vähintään 10 oppilas-pudotusta tai koulutushyppyä edellisen 12 kuukauden aikana. Näistä vähintään 5 tulee olla vapaapudotuskoulutushyppyä oppilaan kanssa. 
+
+3. todiste siitä, että henkilö on täyttänyt VPK-luokituksen uusimiseen asetetut ehdot.
+
 
 Henkilö ei voi itse hyväksyä oman kouluttajaluokituksensa uusimista.
 
